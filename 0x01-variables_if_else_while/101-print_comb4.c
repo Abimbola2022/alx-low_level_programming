@@ -43,7 +43,7 @@ int main(void)
 
 		}
 
-	   i++
+	   i++;
 	}
 
 	putchar(10);
